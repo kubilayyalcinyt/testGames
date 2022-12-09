@@ -23,17 +23,6 @@ def update():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 game.run()
 
 

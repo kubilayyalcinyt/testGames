@@ -18,3 +18,4 @@ transform = Transform( -1, -8.74228e-08, 3.82137e-15, 8.74228e-08, -1, 8.74228e-
 
 [node name="Camera" type="Camera" parent="body/head"]
 transform = Transform( -1, -8.74228e-08, 7.64274e-15, 3.82137e-15, -1.31134e-07, -1, 8.74228e-08, -1, 1.31134e-07, 0, -1.19209e-07, -1.94447 )
+far = 120.0
